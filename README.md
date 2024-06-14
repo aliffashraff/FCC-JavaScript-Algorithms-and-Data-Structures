@@ -1,6 +1,6 @@
 # JavaScript-Algorithms-and-Data-Structures
 ## Legacy Javascript Challenges
-### Lsit of Challenges
+### List of Challenges
 1. Palindrome Checker
 2. Roman Numeral Converter
 3. Caesars Cipher
